@@ -1,0 +1,6 @@
+// Built in MOdules
+
+OS = სისტემის 
+Path = პოულობს ფაილის გზას ლოკალურად
+FS  = FileSystem (ფაილების წასაკითხად/ჩასაწერად)
+HTTP = Hyper Text Transfer Protocol () 
